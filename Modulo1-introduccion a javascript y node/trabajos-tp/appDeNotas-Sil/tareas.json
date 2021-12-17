@@ -1,0 +1,14 @@
+[   
+    {
+        "titulo": "apps de notas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hacer ejercicios",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "cenar",
+        "estado": "pendiente"
+    }
+]
