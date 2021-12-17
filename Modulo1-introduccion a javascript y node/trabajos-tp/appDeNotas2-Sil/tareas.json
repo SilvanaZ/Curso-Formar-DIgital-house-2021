@@ -1,0 +1,42 @@
+[
+    {
+        "titulo": "Tomar mate",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Hacer tareas del Playground",
+        "estado": "enproceso"
+    },
+    {
+        "titulo": "Regar las plantas",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "estudiar",
+        "estado": "enproceso"
+    },
+    {
+        "titulo": "Asistir a clase",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "limpiar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "comprar",
+        "estado": "enproceso"
+    },
+    {
+        "titulo": "ordenar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "correr",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "dormir",
+        "estado": "Pendiente"
+    }
+]
